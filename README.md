@@ -9,7 +9,7 @@ Phase field simulations are a popular class of numerical methods used to simulat
 
 We will specifically examine the __MARMOT__ numerical framework which is based on Idaho National Laboratory's Multiphysics Object-Oriented Simulation Environment (__MOOSE__). See Tonks et al 2012 for details.
 
-### The need 
+### The need for parallelism
 
 
 ## Bibliography
