@@ -7,7 +7,7 @@ I am a PhD student in the department of Mechanical Engineering at UC Berkeley. I
 ## Multi-physics phase field simulations
 Phase field simulations are a popular class of numerical methods used to simulate microstructure evolution. These include transient phenomenon like solidification, dendrite growth, and phase transformations. (See Chen 2002 for an overview of the method.) At its heart, the phase field method aims to study the evolution of __order parameters__. Order parameters may be used as an indicator to represent, for example, various chemical species in a chemical reaction, differing phases of a material undergoing phase transition, damaged or fractured regions in a material that is failing. Often, it is necessary to couple these evolution equations with other physics -- for example thermomechanics.
 
-We will specifically examine the __MARMOT__ numerical framework which is based on Idaho National Laboratory's Multiphysics Object-Oriented Simulation Environment (__MOOSE__). See Tonks et al 2012 for details.
+We will specifically examine the __MARMOT__ numerical framework which is based on Idaho National Laboratory's Multiphysics Object-Oriented Simulation Environment [MOOSE](https://mooseframework.inl.gov/). See Tonks et al 2012 for details on MARMOT.
 
 ### The need for parallelism
 
